@@ -1,5 +1,5 @@
 # Swamp
-Solving the well-known AI problem of the Swamp illustrating how A* and Iterative Deepening Search work.
+Implementation of the well-known AI problem of the Swamp illustrating how A* and Iterative Deepening Search work.
 
 # Run the project in Eclipse
 To run the project follow the following steps:
